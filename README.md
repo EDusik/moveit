@@ -19,7 +19,10 @@ This project uses these technologies:
 ```npm
 npx create-react-app moveit --template=typecript
 ```
-
+### Install Dependencies 
+```npm
+npm install
+```
 ### Run Project
 ```npm
 npm start
