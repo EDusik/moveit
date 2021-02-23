@@ -16,7 +16,7 @@ This project uses these technologies:
 ## :file_folder: Directories
 #### /react
 React Application
-#### /frontend
+#### /moveit-next
 Next.Js Application
 ## :computer: Commands
 ### Create the project
