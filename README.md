@@ -18,21 +18,31 @@ This project uses these technologies:
 React Application
 #### /frontend
 Next.Js Application
-
 ## :computer: Commands
 ### Create the project
-
+#### React
+```nmp
+npm install typescript @types/react @types/react-dom @types/node -D
+```
+#### Next.Js
 ```npm
 npx create-next-app moveit-next
-npx create-react-app moveit --template=typecript
 ```
 ### Install Dependencies 
-```npm
-npm install typescript @types/react @types/react-dom @types/node -D
+#### React
+```nmp
 npm install
 ```
-### Run Project
+#### Next.Js
 ```npm
-npm dev
+npm install typescript @types/react @types/react-dom @types/node -D
+```
+### Run Project
+#### React
+```nmp
 npm start
+```
+#### Next.Js
+```npm
+npm run dev
 ```
