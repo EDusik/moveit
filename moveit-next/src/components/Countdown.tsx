@@ -78,8 +78,7 @@ export const Countdown = () => {
           </button>
           )}
         </>
-        )
-      }
+      )}
     </div>
   );
 };
