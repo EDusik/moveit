@@ -38,6 +38,7 @@ export const CountdownProvider = ({children} : ChallengesProviderProps) => {
     clearTimeout(countdownTimeout);
     setTime(TIMER);
     setIsActive(false);
+    setHasFinished(false);
   }
 
   useEffect(() => {
