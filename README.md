@@ -15,8 +15,8 @@ This project uses these technologies:
 - [Vercel](https://vercel.com/)
 
 ## :computer: Commands
-### Create the project
 #### React
+##### Create the project
 ```nmp
 npm install typescript @types/react @types/react-dom @types/node -D
 ```
@@ -36,14 +36,15 @@ vercel --prod
 ```
 
 #### Next.Js
+##### Create the project
 ```npm
 npx create-next-app moveit-next
 ```
-### Install Dependencies 
+##### Install Dependencies 
 ```npm
 npm install typescript @types/react @types/react-dom @types/node -D
 ```
-### Run Project
+##### Run Project
 ```npm
 npm run dev
 ```
