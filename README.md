@@ -12,12 +12,8 @@ This project uses these technologies:
 
 - [React](https://reactjs.org/)
 - [Next.Js](https://nextjs.org/)
+- [Vercel](https://vercel.com/)
 
-## :file_folder: Directories
-#### /react
-React Application
-#### /moveit-next
-Next.Js Application
 ## :computer: Commands
 ### Create the project
 #### React
@@ -29,20 +25,10 @@ npm install typescript @types/react @types/react-dom @types/node -D
 npx create-next-app moveit-next
 ```
 ### Install Dependencies 
-#### React
-```nmp
-npm install
-```
-#### Next.Js
 ```npm
 npm install typescript @types/react @types/react-dom @types/node -D
 ```
 ### Run Project
-#### React
-```nmp
-npm start
-```
-#### Next.Js
 ```npm
 npm run dev
 ```
