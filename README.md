@@ -20,6 +20,21 @@ This project uses these technologies:
 ```nmp
 npm install typescript @types/react @types/react-dom @types/node -D
 ```
+#### Vercel
+##### Install
+```nmp
+npm install -g vercel
+```
+##### Login
+```nmp
+vercel login
+```
+##### Deploy
+```nmp
+vercel
+vercel --prod
+```
+
 #### Next.Js
 ```npm
 npx create-next-app moveit-next
